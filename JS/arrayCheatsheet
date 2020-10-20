@@ -17,3 +17,6 @@
 const arr=['a','b','c','d'];
 const haha=arr.splice(1,2,'f');
 //arr=['a','f','d'] , haha=['b','c']
+
+
+--------------------
