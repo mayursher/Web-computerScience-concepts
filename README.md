@@ -1,21 +1,17 @@
-
-
-
-# Web/computerScience concepts
+# getting-started-with-reactjs-js
 
 
    Hey you all 👋.
 
-This repo is about beginners helping beginners. This repo will include basic Javascript, HTML, CSS, ReactJS or any computer science concept and also the resources to understand the same.
-
+This repo is about beginners helping beginners. This repo will include basic Javascript and react concept and the resources to understand the same.
+PR's are most welcomed here.
 
 ## Contributing
 PR's are most welcomed.
 
-branch name should be ```[conceptOf]/[featureName]``` eg: ```js/hoisting``` , ```css/boxModel```
+branch name should be ```js/[featureName]``` eg: ```js/hoisting```.
 
-If the branch is already created and if you have better resource or way of explaining the concept you can name the branch name as ```ENH-[conceptOf]/[branchName]``` or ```IMPROVE-[conceptOf]/[branchName]```.
-
+Create a file with ```[conceptName]``` within the ```[conceptOf]``` folder eg: ```JS/Hoisting```, ```CSS/BoxModel```
 
 Please make sure to add links for the resources you have used to learn the concept
 
