@@ -1,6 +1,3 @@
-
-
-
 # getting-started-with-reactjs-js
 
 
