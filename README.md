@@ -12,6 +12,8 @@ PR's are most welcomed here.
 ## Contributing
 PR's are most welcomed.
 
+branch name should be ```js/[featureName]``` eg: ```js/hoisting```
+
 Please make sure to add links for the resources you have used to learn the concept
 
 Thanks.
